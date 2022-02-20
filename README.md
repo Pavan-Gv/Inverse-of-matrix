@@ -50,4 +50,6 @@ print(inverse)
 ```
 ## OUTPUT:
 ![OuTPUT](inv.png)
+
 ## RESULT:
+Therefore the program is successfully executed to find the inverse of nested arrays using numpy module.
